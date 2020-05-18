@@ -177,8 +177,8 @@ export default {
         { img: 'microsoft.png', name: 'microsoft', radius: false }
       ],
       loginForm: {
-        username: '',
-        password: '',
+        username: 'admin',
+        password: '123456',
         bindUsername: '',
         bindPassword: '',
         signUsername: '',
