@@ -1,12 +1,16 @@
 <template>
-  <div>
-    <h1>生产Hello</h1>
+  <div class="app-container">
+
   </div>
 </template>
 
 <script>
   export default {
-    name: "test"
+    name: "test",
+    data() {
+      return {}
+    }
+
   }
 </script>
 
